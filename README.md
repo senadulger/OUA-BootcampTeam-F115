@@ -35,12 +35,31 @@ Uygulamamız, belirli bir bölgeye seyahat etmeyi planlayan kullanıcılar için
   
 
 ## Product Backlog URL
-
+[F-115 Miro Backlog Board](https://miro.com/app/board/uXjVM9w-WaU=/)
 
 ---
 
 # Sprint 1
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının müsaitliğe göre Google Meet veya WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint-1 Daily Scrum](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/F-115%20Sprint-1%20Daily%20Scrum%20Chats.pdf)
+
+- Sprint board update: Sprint board screenshotları: 
+![Backlog 1](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/Sprint-1%20Miro%20Board.png)
+
+- **Ürün Durumu**: Henüz ürüne başlanmamıştır. Gerekli araştırmalar yapılıyor bu yüzden birinci sprint için screenshot bulunmamaktadır.
+
+- **Sprint Review**: Bu sprintte ürüne karar verildi. Ayrıca ürünün hangi özelliklere sahip olacağı konuşuldu.
+  <br> Sprint Review Katılımcıları: Hümeyra Sezgin, Özgür Ağar, Sena Nur Dülger
+
+- **Sprint Retrospective:**
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Takım içi iletişimi güçlendirilmeli
+  - Daily Scrumların daha düzenli yapılmalı ve üyelerin sprintlerde daha aktif olunmalı
 ---
 
 # Sprint 2
