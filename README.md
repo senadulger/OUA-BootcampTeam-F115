@@ -46,7 +46,7 @@ Uygulamamız, belirli bir bölgeye seyahat etmeyi planlayan kullanıcılar için
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının müsaitliğe göre Google Meet veya WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı örneği jpeg dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint-1 Daily Scrum](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/F-115%20Sprint-1%20Daily%20Scrum%20Chats.pdf)
+- **Daily Scrum**: Daily Scrum toplantılarının müsaitliğe göre Google Meet veya WhatsApp üzerinden yapılmasına karar verildi. Daily Scrum toplantısı örneği PDF dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint-1 Daily Scrum](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/F-115%20Sprint-1%20Daily%20Scrum%20Chats.pdf)
 
 - Sprint board update: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/Sprint-1%20Miro%20Board.png)
