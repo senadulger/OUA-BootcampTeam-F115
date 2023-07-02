@@ -63,7 +63,26 @@ Uygulamamız, belirli bir bölgeye seyahat etmeyi planlayan kullanıcılar için
 ---
 
 # Sprint 2
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'e 100 puan ile devam edilmesi gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantısı örneği PDF dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint-2 Daily Scrum](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/F-115%20Sprint-2%20Daily%20Scrum%20Chats.pdf)
+
+- Sprint board update: Sprint board screenshotları: 
+![Backlog 1](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/Sprint-2%20Miro%20Board.png)
+
+- **Ürün Durumu**: Toplantıların düzenli olarak gerçekleştirilememesi sebebiyle iş listesi oluşturulamadı ve uygulamanın başlanması hala mümkün olmadı. Bu nedenle bu sprint için de screenshot bulunmamaktadır.
+
+- **Sprint Review**: Sprint toplantılarına tam olarak katılım sağlanamadı.
+  <br> Sprint Review Katılımcıları: Sena Nur Dülger
+
+- **Sprint Retrospective:**
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Takım içi iletişimi güçlendirilmeli
+  - Daily Scrumlar daha düzenli yapılmalı ve üyeler sprintlerde daha aktif olunmalı
 
 ---
 
