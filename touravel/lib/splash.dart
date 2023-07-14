@@ -231,7 +231,7 @@ class Sehir extends StatelessWidget {
 
                   ///***If you have exported images you must have to copy those images in assets/images directory.
                   const Image(
-                    image: AssetImage("assets/images/istanbul.png"),
+                    image: AssetImage("assets/images/ankara.png"),
                     height: 100,
                     width: 100,
                     fit: BoxFit.cover,

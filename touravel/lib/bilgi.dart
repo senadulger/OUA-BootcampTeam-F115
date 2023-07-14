@@ -59,68 +59,6 @@ class Bilgi extends StatelessWidget {
                 fit: BoxFit.cover,
               ),
             ),
-            Container(
-              margin: const EdgeInsets.all(0),
-              padding: const EdgeInsets.all(0),
-              width: MediaQuery.of(context).size.width,
-              height: 100,
-              decoration: const BoxDecoration(
-                color: Color(0xffffffff),
-                shape: BoxShape.rectangle,
-                borderRadius: BorderRadius.zero,
-              ),
-              child: ListView(
-                scrollDirection: Axis.horizontal,
-                padding: const EdgeInsets.all(16),
-                shrinkWrap: true,
-                physics: const ClampingScrollPhysics(),
-                children: const [
-                  ///***If you have exported images you must have to copy those images in assets/images directory.
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 30,
-                    width: 70,
-                    fit: BoxFit.cover,
-                  ),
-                  Padding(
-                    padding: EdgeInsets.fromLTRB(16, 0, 0, 0),
-                    child:
-
-                        ///***If you have exported images you must have to copy those images in assets/images directory.
-                        Image(
-                      image: AssetImage("assets/images/istanbul.png"),
-                      height: 60,
-                      width: 70,
-                      fit: BoxFit.cover,
-                    ),
-                  ),
-                  Padding(
-                    padding: EdgeInsets.fromLTRB(16, 0, 0, 0),
-                    child:
-
-                        ///***If you have exported images you must have to copy those images in assets/images directory.
-                        Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
-                      height: 60,
-                      width: 70,
-                      fit: BoxFit.cover,
-                    ),
-                  ),
-                  Padding(
-                    padding: EdgeInsets.fromLTRB(16, 0, 0, 0),
-                    child:
-
-                        ///***If you have exported images you must have to copy those images in assets/images directory.
-                        Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
-                      height: 70,
-                      width: 70,
-                      fit: BoxFit.cover,
-                    ),
-                  ),
-                ],
-              ),
-            ),
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 0, horizontal: 16),
               child: Row(
