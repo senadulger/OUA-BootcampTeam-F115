@@ -44,12 +44,15 @@ class Izm2 extends StatelessWidget {
           children: [
             Padding(
               padding: const EdgeInsets.all(16),
-              child: Image(
-                image: const AssetImage("assets/images/kizkulesi.png"),
-                height:
-                    MediaQuery.of(context).size.height * 0.35000000000000003,
-                width: MediaQuery.of(context).size.width,
-                fit: BoxFit.cover,
+              child: Hero(
+                tag: "2",
+                child: Image(
+                  image: const AssetImage("assets/images/kizkulesi.png"),
+                  height:
+                      MediaQuery.of(context).size.height * 0.35000000000000003,
+                  width: MediaQuery.of(context).size.width,
+                  fit: BoxFit.cover,
+                ),
               ),
             ),
             Padding(

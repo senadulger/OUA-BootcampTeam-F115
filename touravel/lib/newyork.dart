@@ -68,11 +68,14 @@ class NewYork extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisSize: MainAxisSize.max,
                 children: [
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 100,
-                    width: 140,
-                    fit: BoxFit.cover,
+                  Hero(
+                    tag: "1",
+                    child: Image(
+                      image: AssetImage("assets/images/kizkulesi.png"),
+                      height: 100,
+                      width: 140,
+                      fit: BoxFit.cover,
+                    ),
                   ),
                   Text(
                     "Kız Kulesi",

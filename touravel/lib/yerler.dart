@@ -9,6 +9,7 @@ class Yerler extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Hero(tag: 1, child: Image.asset('assets/images/kizkulesi.png'));
     return Scaffold(
       backgroundColor: const Color(0xffffffff),
       appBar: AppBar(
@@ -71,11 +72,14 @@ class Yerler extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisSize: MainAxisSize.max,
                 children: [
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 100,
-                    width: 140,
-                    fit: BoxFit.cover,
+                  Hero(
+                    tag: "1",
+                    child: Image(
+                      image: AssetImage("assets/images/kizkulesi.png"),
+                      height: 100,
+                      width: 140,
+                      fit: BoxFit.cover,
+                    ),
                   ),
                   Text(
                     "Kız Kulesi",
@@ -113,11 +117,14 @@ class Yerler extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisSize: MainAxisSize.max,
                 children: [
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 100,
-                    width: 140,
-                    fit: BoxFit.cover,
+                  Hero(
+                    tag: "2",
+                    child: Image(
+                      image: AssetImage("assets/images/kizkulesi.png"),
+                      height: 100,
+                      width: 140,
+                      fit: BoxFit.cover,
+                    ),
                   ),
                   Text(
                     "Kız Kulesi",
@@ -155,11 +162,14 @@ class Yerler extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisSize: MainAxisSize.max,
                 children: [
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 100,
-                    width: 140,
-                    fit: BoxFit.cover,
+                  Hero(
+                    tag: "3",
+                    child: Image(
+                      image: AssetImage("assets/images/kizkulesi.png"),
+                      height: 100,
+                      width: 140,
+                      fit: BoxFit.cover,
+                    ),
                   ),
                   Text(
                     "Kız Kulesi",
@@ -197,11 +207,14 @@ class Yerler extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisSize: MainAxisSize.max,
                 children: [
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 100,
-                    width: 140,
-                    fit: BoxFit.cover,
+                  Hero(
+                    tag: "4",
+                    child: Image(
+                      image: AssetImage("assets/images/kizkulesi.png"),
+                      height: 100,
+                      width: 140,
+                      fit: BoxFit.cover,
+                    ),
                   ),
                   Text(
                     "Kız Kulesi",
