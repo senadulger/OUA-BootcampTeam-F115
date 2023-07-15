@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 
-class Bilgi extends StatelessWidget {
-  const Bilgi({super.key});
+class Ist3 extends StatelessWidget {
+  const Ist3({super.key});
 
   @override
   Widget build(BuildContext context) {

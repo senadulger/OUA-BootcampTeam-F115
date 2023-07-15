@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:touravel/bilgi.dart';
-import 'package:touravel/ist2.dart';
-import 'package:touravel/ist3.dart';
-import 'package:touravel/ist4.dart';
+import 'package:touravel/ank1.dart';
+import 'package:touravel/ank2.dart';
+import 'package:touravel/ank3.dart';
 
-class Yerler extends StatelessWidget {
-  const Yerler({super.key});
+class Ankara extends StatelessWidget {
+  const Ankara({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -19,7 +18,7 @@ class Yerler extends StatelessWidget {
           borderRadius: BorderRadius.zero,
         ),
         title: const Text(
-          "Istanbul",
+          "Ankara",
           style: TextStyle(
             fontWeight: FontWeight.w700,
             fontStyle: FontStyle.normal,
@@ -53,7 +52,7 @@ class Yerler extends StatelessWidget {
           InkWell(
             onTap: () {
               Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => const Bilgi()));
+                  MaterialPageRoute(builder: (context) => const Ank1()));
             },
             child: Container(
               margin: const EdgeInsets.all(0),
@@ -95,7 +94,7 @@ class Yerler extends StatelessWidget {
           InkWell(
             onTap: () {
               Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => const Ist2()));
+                  MaterialPageRoute(builder: (context) => const Ank2()));
             },
             child: Container(
               margin: const EdgeInsets.all(0),
@@ -137,49 +136,7 @@ class Yerler extends StatelessWidget {
           InkWell(
             onTap: () {
               Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => const Ist3()));
-            },
-            child: Container(
-              margin: const EdgeInsets.all(0),
-              padding: const EdgeInsets.all(0),
-              width: 200,
-              height: 100,
-              decoration: BoxDecoration(
-                color: const Color(0x1f000000),
-                shape: BoxShape.rectangle,
-                borderRadius: BorderRadius.zero,
-                border: Border.all(color: const Color(0x4d9e9e9e), width: 1),
-              ),
-              child: const Column(
-                mainAxisAlignment: MainAxisAlignment.start,
-                crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisSize: MainAxisSize.max,
-                children: [
-                  Image(
-                    image: AssetImage("assets/images/kizkulesi.png"),
-                    height: 100,
-                    width: 140,
-                    fit: BoxFit.cover,
-                  ),
-                  Text(
-                    "Kız Kulesi",
-                    textAlign: TextAlign.start,
-                    overflow: TextOverflow.clip,
-                    style: TextStyle(
-                      fontWeight: FontWeight.w400,
-                      fontStyle: FontStyle.normal,
-                      fontSize: 14,
-                      color: Color(0xff000000),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ),
-          InkWell(
-            onTap: () {
-              Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => const Ist4()));
+                  MaterialPageRoute(builder: (context) => const Ank3()));
             },
             child: Container(
               margin: const EdgeInsets.all(0),

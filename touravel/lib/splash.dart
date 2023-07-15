@@ -1,8 +1,8 @@
-///File download from FlutterViz- Drag and drop a tools. For more details visit https://flutterviz.io/
-
-///File download from FlutterViz- Drag and drop a tools. For more details visit https://flutterviz.io/
-
 import 'package:flutter/material.dart';
+import 'package:touravel/ankara.dart';
+import 'package:touravel/izmir.dart';
+import 'package:touravel/londra.dart';
+import 'package:touravel/newyork.dart';
 import 'package:touravel/yerler.dart';
 
 class Splash extends StatelessWidget {
@@ -32,7 +32,6 @@ class Splash extends StatelessWidget {
             child: const Stack(
               alignment: Alignment.center,
               children: [
-                ///***If you have exported images you must have to copy those images in assets/images directory.
                 Image(
                   image: AssetImage("assets/images/logo.png"),
                   height: 120,
@@ -155,8 +154,6 @@ class Sehir extends StatelessWidget {
                       ),
                     ),
                   ),
-
-                  ///***If you have exported images you must have to copy those images in assets/images directory.
                   const Image(
                     image: AssetImage("assets/images/istanbul.png"),
                     height: 100,
@@ -169,7 +166,8 @@ class Sehir extends StatelessWidget {
           ),
           InkWell(
             onTap: () {
-              //ankara
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => const Ankara()));
             },
             child: Padding(
               padding: const EdgeInsets.fromLTRB(0, 0, 0, 16),
@@ -228,8 +226,6 @@ class Sehir extends StatelessWidget {
                       ),
                     ),
                   ),
-
-                  ///***If you have exported images you must have to copy those images in assets/images directory.
                   const Image(
                     image: AssetImage("assets/images/ankara.png"),
                     height: 100,
@@ -242,7 +238,8 @@ class Sehir extends StatelessWidget {
           ),
           InkWell(
             onTap: () {
-              //izmir
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => const Izmir()));
             },
             child: Padding(
               padding: const EdgeInsets.fromLTRB(0, 0, 0, 16),
@@ -301,8 +298,6 @@ class Sehir extends StatelessWidget {
                       ),
                     ),
                   ),
-
-                  ///***If you have exported images you must have to copy those images in assets/images directory.
                   const Image(
                     image: AssetImage("assets/images/istanbul.png"),
                     height: 100,
@@ -315,7 +310,8 @@ class Sehir extends StatelessWidget {
           ),
           InkWell(
             onTap: () {
-              //londra
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => const Londra()));
             },
             child: Padding(
               padding: const EdgeInsets.fromLTRB(0, 0, 0, 16),
@@ -374,8 +370,6 @@ class Sehir extends StatelessWidget {
                       ),
                     ),
                   ),
-
-                  ///***If you have exported images you must have to copy those images in assets/images directory.
                   const Image(
                     image: AssetImage("assets/images/istanbul.png"),
                     height: 100,
@@ -388,7 +382,8 @@ class Sehir extends StatelessWidget {
           ),
           InkWell(
             onTap: () {
-              //newyork
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => const NewYork()));
             },
             child: Padding(
               padding: const EdgeInsets.fromLTRB(0, 0, 0, 16),
@@ -447,8 +442,6 @@ class Sehir extends StatelessWidget {
                       ),
                     ),
                   ),
-
-                  ///***If you have exported images you must have to copy those images in assets/images directory.
                   const Image(
                     image: AssetImage("assets/images/istanbul.png"),
                     height: 100,
