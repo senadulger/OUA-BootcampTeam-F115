@@ -73,14 +73,14 @@ class Ankara extends StatelessWidget {
                   Hero(
                     tag: "1",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/anitkabir.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Anıtkabir",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -118,14 +118,14 @@ class Ankara extends StatelessWidget {
                   Hero(
                     tag: "2",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/atakule.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Atakule",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -163,14 +163,14 @@ class Ankara extends StatelessWidget {
                   Hero(
                     tag: "3",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/kugulupark.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Kuğulu Park",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(

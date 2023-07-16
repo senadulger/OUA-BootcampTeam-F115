@@ -17,7 +17,7 @@ class Izm3 extends StatelessWidget {
           borderRadius: BorderRadius.zero,
         ),
         title: const Text(
-          "Kız Kulesi",
+          "Kemeraltı Çarşısı",
           style: TextStyle(
             fontWeight: FontWeight.w700,
             fontStyle: FontStyle.normal,
@@ -47,7 +47,7 @@ class Izm3 extends StatelessWidget {
               child: Hero(
                 tag: "3",
                 child: Image(
-                  image: const AssetImage("assets/images/kizkulesi.png"),
+                  image: const AssetImage("assets/images/kemeralticarsisi.png"),
                   height:
                       MediaQuery.of(context).size.height * 0.35000000000000003,
                   width: MediaQuery.of(context).size.width,
@@ -63,7 +63,7 @@ class Izm3 extends StatelessWidget {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   const Text(
-                    "Kız Kulesi",
+                    "Kemeraltı Çarşısı",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -90,7 +90,7 @@ class Izm3 extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.fromLTRB(16, 16, 16, 0),
               child: Text(
-                "Kız Kulesi, İstanbul Boğazı'nın Marmara Denizi'ne yakın kısmında, Salacak açıklarında yer alan küçük adacık üzerinde inşa edilmiş yapıdır. “Deniz içinde karadan bir ok atımı uzak, dört köşe, sanatkârane yapılmış bir yüksek kuledir. Yüksekliği tam seksen arşındır. Sathı mesahası iki yüz adımdır. İki taraftan yerde kapısı vardır.” Evliya Çelebi, seyahatnamesinde bu şekilde tarif eder Boğaz’ın incisi Kız Kulesi’ni… Antik Çağ’da “Arcla” yani küçük kale ve “Damialis” yani dana yavrusu adları ile anılan kule, bir dönem Leandros’un Kulesi anlamına gelen “Tour de Leandros” ismi ile ün yapar. Hakkında çeşitli rivayetler anlatılan, efsanelere konu olan kulenin bilinen tarihi, milattan önce 411 yıllarına kadar uzanır. Kız Kulesi hakkında en bilinen hikâye, Kleopatra’nın sonuna benzer bir sonun anlatıldığı yılan hikâyesidir. Kehanete göre; Krala çok sevdiği kızının onsekiz yaşına geldiğinde bir yılan tarafından sokularak öleceği söylenir. Kral bu kehanet üzerine, denizin ortasında bir kule yaptırır ve prensesi buraya yerleştirir. Ancak kuleye gönderilen üzüm sepetinden çıkan bir yılan, prensesinin ölümüne neden olur. Kral, kızına demirden bir tabut yaptırarak Ayasofya’nın giriş kapısının üstüne yerleştirir. Yılanın, ölümünden sonra da prensesi rahat bırakmadığına dair söylentiler günümüze kadar ulaşmıştır. Zira bu tabutun üstünde iki delik olduğu hala anlatılır. İstanbul Boğazı’nın girişindeki kayalık üzerine kurulmuş olan bu küçük kule, tarihsel süreçte gümrük istasyonu, gözetleme kulesi, deniz feneri olarak kullanılır. Kulenin bugünkü temelleri ve alt katın önemli kısımları Fatih Sultan Mehmet zamanında yapılmıştır. Boğaz’da salınan sandalları, vapurları ve gemileri günün her saatinde selamlayan Kız Kulesi, 1998 yılında başlayan restorasyon çalışmalarının ardından 2000 yılında turizme açıldı. Ulaşımın Salacak ve Ortaköy’den sandallarla yapıldığı Kız Kulesi, bugün İstanbul’un en önemli sembollerinden biri olarak ziyaretçilerini ağırlamaya devam ediyor.",
+                "Kemeraltı Çarşısı, Türkiye'nin İzmir şehrinde bulunan tarihi ve canlı bir çarşıdır. Bu büyüleyici çarşı, İzmir'in kalbinde yer alır ve zengin bir tarihe sahiptir. Kemeraltı, Osmanlı döneminden günümüze uzanan geçmişiyle ticaretin ve kültürün merkezi olmuştur. Kemeraltı Çarşısı, renkli dükkanları, sokak satıcıları ve canlı atmosferiyle ziyaretçilere benzersiz bir alışveriş deneyimi sunar. Çarşının dar sokakları, geleneksel el sanatlarından yerel lezzetlere, giyimden antikalara kadar geniş bir ürün yelpazesine ev sahipliği yapar. İzmir'in meşhur tulum peyniri, zeytinyağı sabunları, deri ürünleri ve el yapımı takılar gibi özel hediyelik eşyalar da çarşıda bulunabilir. Ayrıca, çarşıda bulunan çay bahçeleri ve restoranlar, yorgunluk atmak ve lezzetli bir mola vermek için ideal mekanlardır.    Kemeraltı Çarşısı, sadece alışveriş için değil, aynı zamanda İzmir'in tarihini ve kültürel mirasını keşfetmek için de önemli bir noktadır. Çarşı içinde yer alan tarihi yapılar, camiler ve hanlar, ziyaretçilere Osmanlı dönemine ait bir atmosfer sunar. Ayrıca, çarşının yakınında bulunan Kızlarağası Hanı, tarihi bir mekan olarak dikkat çeker ve İzmir'in kültürel etkinliklerine ev sahipliği yapar. Kemeraltı Çarşısı, İzmir'in canlı ve renkli atmosferini deneyimlemek isteyen herkes için keşfedilmeye değer bir yerdir.",
                 textAlign: TextAlign.left,
                 overflow: TextOverflow.clip,
                 style: TextStyle(

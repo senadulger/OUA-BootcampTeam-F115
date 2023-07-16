@@ -299,7 +299,7 @@ class Sehir extends StatelessWidget {
                     ),
                   ),
                   const Image(
-                    image: AssetImage("assets/images/istanbul.png"),
+                    image: AssetImage("assets/images/izmir.png"),
                     height: 100,
                     width: 100,
                     fit: BoxFit.cover,
@@ -371,7 +371,7 @@ class Sehir extends StatelessWidget {
                     ),
                   ),
                   const Image(
-                    image: AssetImage("assets/images/istanbul.png"),
+                    image: AssetImage("assets/images/londra.png"),
                     height: 100,
                     width: 100,
                     fit: BoxFit.cover,
@@ -443,7 +443,7 @@ class Sehir extends StatelessWidget {
                     ),
                   ),
                   const Image(
-                    image: AssetImage("assets/images/istanbul.png"),
+                    image: AssetImage("assets/images/newyork.png"),
                     height: 100,
                     width: 100,
                     fit: BoxFit.cover,

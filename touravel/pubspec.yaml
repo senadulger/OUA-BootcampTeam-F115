@@ -64,7 +64,23 @@ flutter:
     - assets/images/logo.png
     - assets/images/istanbul.png
     - assets/images/kizkulesi.png
+    - assets/images/beylerbeyisarayi.png
+    - assets/images/galatakulesi.png
+    - assets/images/yerebatansarnici.png
     - assets/images/ankara.png
+    - assets/images/anitkabir.png
+    - assets/images/atakule.png
+    - assets/images/kugulupark.png
+    - assets/images/izmir.png
+    - assets/images/izmirsaatkulesi.png
+    - assets/images/efesantikkenti.png
+    - assets/images/kemeralticarsisi.png
+    - assets/images/londra.png
+    - assets/images/bigben.png
+    - assets/images/bigben.png
+    - assets/images/ozgurlukheykeli.png
+    
+    
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

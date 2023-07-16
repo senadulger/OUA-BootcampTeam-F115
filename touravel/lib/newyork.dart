@@ -71,14 +71,14 @@ class NewYork extends StatelessWidget {
                   Hero(
                     tag: "1",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/ozgurlukheykeli.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Özgürlük Heykeli",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(

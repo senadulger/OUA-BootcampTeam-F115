@@ -120,14 +120,14 @@ class Yerler extends StatelessWidget {
                   Hero(
                     tag: "2",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/beylerbeyisarayi.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Beylerbeyi Sarayı",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -165,14 +165,14 @@ class Yerler extends StatelessWidget {
                   Hero(
                     tag: "3",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/galatakulesi.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Galata Kulesi",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -210,14 +210,14 @@ class Yerler extends StatelessWidget {
                   Hero(
                     tag: "4",
                     child: Image(
-                      image: AssetImage("assets/images/kizkulesi.png"),
+                      image: AssetImage("assets/images/yerebatansarnici.png"),
                       height: 100,
                       width: 140,
                       fit: BoxFit.cover,
                     ),
                   ),
                   Text(
-                    "Kız Kulesi",
+                    "Yerebatan Sarnıcı",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(

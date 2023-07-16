@@ -17,7 +17,7 @@ class New1 extends StatelessWidget {
           borderRadius: BorderRadius.zero,
         ),
         title: const Text(
-          "Kız Kulesi",
+          "Özgürlük Heykeli",
           style: TextStyle(
             fontWeight: FontWeight.w700,
             fontStyle: FontStyle.normal,
@@ -47,7 +47,7 @@ class New1 extends StatelessWidget {
               child: Hero(
                 tag: "1",
                 child: Image(
-                  image: const AssetImage("assets/images/kizkulesi.png"),
+                  image: const AssetImage("assets/images/ozgurlukheykeli.png"),
                   height:
                       MediaQuery.of(context).size.height * 0.35000000000000003,
                   width: MediaQuery.of(context).size.width,
@@ -63,7 +63,7 @@ class New1 extends StatelessWidget {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   const Text(
-                    "Kız Kulesi",
+                    "Özgürlük Heykeli",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -90,7 +90,7 @@ class New1 extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.fromLTRB(16, 16, 16, 0),
               child: Text(
-                "Kız Kulesi, İstanbul Boğazı'nın Marmara Denizi'ne yakın kısmında, Salacak açıklarında yer alan küçük adacık üzerinde inşa edilmiş yapıdır. “Deniz içinde karadan bir ok atımı uzak, dört köşe, sanatkârane yapılmış bir yüksek kuledir. Yüksekliği tam seksen arşındır. Sathı mesahası iki yüz adımdır. İki taraftan yerde kapısı vardır.” Evliya Çelebi, seyahatnamesinde bu şekilde tarif eder Boğaz’ın incisi Kız Kulesi’ni… Antik Çağ’da “Arcla” yani küçük kale ve “Damialis” yani dana yavrusu adları ile anılan kule, bir dönem Leandros’un Kulesi anlamına gelen “Tour de Leandros” ismi ile ün yapar. Hakkında çeşitli rivayetler anlatılan, efsanelere konu olan kulenin bilinen tarihi, milattan önce 411 yıllarına kadar uzanır. Kız Kulesi hakkında en bilinen hikâye, Kleopatra’nın sonuna benzer bir sonun anlatıldığı yılan hikâyesidir. Kehanete göre; Krala çok sevdiği kızının onsekiz yaşına geldiğinde bir yılan tarafından sokularak öleceği söylenir. Kral bu kehanet üzerine, denizin ortasında bir kule yaptırır ve prensesi buraya yerleştirir. Ancak kuleye gönderilen üzüm sepetinden çıkan bir yılan, prensesinin ölümüne neden olur. Kral, kızına demirden bir tabut yaptırarak Ayasofya’nın giriş kapısının üstüne yerleştirir. Yılanın, ölümünden sonra da prensesi rahat bırakmadığına dair söylentiler günümüze kadar ulaşmıştır. Zira bu tabutun üstünde iki delik olduğu hala anlatılır. İstanbul Boğazı’nın girişindeki kayalık üzerine kurulmuş olan bu küçük kule, tarihsel süreçte gümrük istasyonu, gözetleme kulesi, deniz feneri olarak kullanılır. Kulenin bugünkü temelleri ve alt katın önemli kısımları Fatih Sultan Mehmet zamanında yapılmıştır. Boğaz’da salınan sandalları, vapurları ve gemileri günün her saatinde selamlayan Kız Kulesi, 1998 yılında başlayan restorasyon çalışmalarının ardından 2000 yılında turizme açıldı. Ulaşımın Salacak ve Ortaköy’den sandallarla yapıldığı Kız Kulesi, bugün İstanbul’un en önemli sembollerinden biri olarak ziyaretçilerini ağırlamaya devam ediyor.",
+                " Özgürlük Heykeli, Amerika Birleşik Devletleri'nin sembollerinden biridir ve dünyaca ünlü bir anıt olarak kabul edilir. New York'ta, Özgürlük Adası'nda yer alan bu heykel, Amerikan bağımsızlığını ve özgürlük idealini temsil eder. Fransız heykeltıraş Frédéric Auguste Bartholdi tarafından tasarlanan ve Gustave Eiffel tarafından inşa edilen Özgürlük Heykeli, 1886 yılında açılmıştır. Özgürlük Heykeli, 93 metrelik yüksekliğiyle göz alıcı bir görüntüye sahiptir. Heykel, kadın bir figür olan Özgürlük Tanrıçası'nı temsil eder. Sağ elindeki meşaleyle aydınlık ve özgürlüğü simgelerken, sol elindeki kitapta Amerika'nın bağımsızlık tarihi yazılıdır. Heykel, gözetleme platformuna çıkmak isteyen ziyaretçilere geniş bir manzara sunar. New York'un siluetini, Hudson Nehri'nin güzelliğini ve Özgürlük Adası'nın çevresini keşfedebilirsiniz. Özgürlük Heykeli, Amerikan demokrasisinin ve özgürlüğünün sembolüdür. Ayrıca, tarihi önemi ve etkileyici sanatsal detaylarıyla ziyaretçileri etkiler. Heykel, milyonlarca insanın gözünde Amerikan rüyasını ve umudunu temsil eder. Özgürlük Heykeli'ni ziyaret etmek, Amerika'nın özgürlük ve demokrasi değerlerine bir saygı duruşu yapmak ve unutulmaz bir deneyim yaşamak için kaçırılmaması gereken bir fırsattır.",
                 textAlign: TextAlign.left,
                 overflow: TextOverflow.clip,
                 style: TextStyle(

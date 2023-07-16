@@ -17,7 +17,7 @@ class Ist2 extends StatelessWidget {
           borderRadius: BorderRadius.zero,
         ),
         title: const Text(
-          "Kız Kulesi",
+          "Beylerbeyi Sarayı",
           style: TextStyle(
             fontWeight: FontWeight.w700,
             fontStyle: FontStyle.normal,
@@ -47,7 +47,7 @@ class Ist2 extends StatelessWidget {
               child: Hero(
                 tag: "2",
                 child: Image(
-                  image: const AssetImage("assets/images/kizkulesi.png"),
+                  image: const AssetImage("assets/images/beylerbeyisarayi.png"),
                   height:
                       MediaQuery.of(context).size.height * 0.35000000000000003,
                   width: MediaQuery.of(context).size.width,
@@ -63,7 +63,7 @@ class Ist2 extends StatelessWidget {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   const Text(
-                    "Kız Kulesi",
+                    "Beylerbeyi Sarayı",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -90,7 +90,7 @@ class Ist2 extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.fromLTRB(16, 16, 16, 0),
               child: Text(
-                "Kız Kulesi, İstanbul Boğazı'nın Marmara Denizi'ne yakın kısmında, Salacak açıklarında yer alan küçük adacık üzerinde inşa edilmiş yapıdır. “Deniz içinde karadan bir ok atımı uzak, dört köşe, sanatkârane yapılmış bir yüksek kuledir. Yüksekliği tam seksen arşındır. Sathı mesahası iki yüz adımdır. İki taraftan yerde kapısı vardır.” Evliya Çelebi, seyahatnamesinde bu şekilde tarif eder Boğaz’ın incisi Kız Kulesi’ni… Antik Çağ’da “Arcla” yani küçük kale ve “Damialis” yani dana yavrusu adları ile anılan kule, bir dönem Leandros’un Kulesi anlamına gelen “Tour de Leandros” ismi ile ün yapar. Hakkında çeşitli rivayetler anlatılan, efsanelere konu olan kulenin bilinen tarihi, milattan önce 411 yıllarına kadar uzanır. Kız Kulesi hakkında en bilinen hikâye, Kleopatra’nın sonuna benzer bir sonun anlatıldığı yılan hikâyesidir. Kehanete göre; Krala çok sevdiği kızının onsekiz yaşına geldiğinde bir yılan tarafından sokularak öleceği söylenir. Kral bu kehanet üzerine, denizin ortasında bir kule yaptırır ve prensesi buraya yerleştirir. Ancak kuleye gönderilen üzüm sepetinden çıkan bir yılan, prensesinin ölümüne neden olur. Kral, kızına demirden bir tabut yaptırarak Ayasofya’nın giriş kapısının üstüne yerleştirir. Yılanın, ölümünden sonra da prensesi rahat bırakmadığına dair söylentiler günümüze kadar ulaşmıştır. Zira bu tabutun üstünde iki delik olduğu hala anlatılır. İstanbul Boğazı’nın girişindeki kayalık üzerine kurulmuş olan bu küçük kule, tarihsel süreçte gümrük istasyonu, gözetleme kulesi, deniz feneri olarak kullanılır. Kulenin bugünkü temelleri ve alt katın önemli kısımları Fatih Sultan Mehmet zamanında yapılmıştır. Boğaz’da salınan sandalları, vapurları ve gemileri günün her saatinde selamlayan Kız Kulesi, 1998 yılında başlayan restorasyon çalışmalarının ardından 2000 yılında turizme açıldı. Ulaşımın Salacak ve Ortaköy’den sandallarla yapıldığı Kız Kulesi, bugün İstanbul’un en önemli sembollerinden biri olarak ziyaretçilerini ağırlamaya devam ediyor.",
+                "Beylerbeyi Sarayı, İstanbul Üsküdar'da bulunan tarihi bir saraydır. Osmanlı İmparatorluğu'nun son dönemlerinde inşa edilen bu görkemli yapı, muhteşem bir mimariye sahiptir. İç mekanlarındaki zengin süslemeler, zarif mobilyalar ve göz alıcı detaylar, ziyaretçileri büyüler. Ayrıca, sarayın bahçesinde dolaşırken çeşmelerin su sesi eşliğinde Boğaziçi'nin nefes kesen manzarasının keyfini çıkarabilirsiniz. Beylerbeyi Sarayı, İstanbul'un tarihi ve kültürel mirasına ışık tutan önemli bir duraktır ve ziyaretçilere Osmanlı İmparatorluğu'nun görkemli geçmişine dair benzersiz bir deneyim sunar. Bugün Beylerbeyi Sarayı, müze olarak halka açıktır ve ziyaretçilere tarihi bir yolculuk fırsatı sunar. Sarayın içinde gezebilir, padişahların yaşadığı odaları keşfedebilir ve o döneme ait lüks ve ihtişamı yakından görebilirsiniz. Ayrıca, sarayın bahçesi sakin bir atmosfer sunar ve Boğaziçi'nin büyüleyici manzarasıyla rahatlayabilirsiniz. Beylerbeyi Sarayı, İstanbul'un görülmesi gereken önemli yerlerinden biridir ve ziyaretçilere unutulmaz bir deneyim sunar.",
                 textAlign: TextAlign.left,
                 overflow: TextOverflow.clip,
                 style: TextStyle(

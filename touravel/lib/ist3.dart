@@ -17,7 +17,7 @@ class Ist3 extends StatelessWidget {
           borderRadius: BorderRadius.zero,
         ),
         title: const Text(
-          "Kız Kulesi",
+          "Galata Kulesi",
           style: TextStyle(
             fontWeight: FontWeight.w700,
             fontStyle: FontStyle.normal,
@@ -47,7 +47,7 @@ class Ist3 extends StatelessWidget {
               child: Hero(
                 tag: "3",
                 child: Image(
-                  image: const AssetImage("assets/images/kizkulesi.png"),
+                  image: const AssetImage("assets/images/galatakulesi.png"),
                   height:
                       MediaQuery.of(context).size.height * 0.35000000000000003,
                   width: MediaQuery.of(context).size.width,
@@ -63,7 +63,7 @@ class Ist3 extends StatelessWidget {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   const Text(
-                    "Kız Kulesi",
+                    "Galata Kulesi",
                     textAlign: TextAlign.start,
                     overflow: TextOverflow.clip,
                     style: TextStyle(
@@ -90,7 +90,7 @@ class Ist3 extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.fromLTRB(16, 16, 16, 0),
               child: Text(
-                "Kız Kulesi, İstanbul Boğazı'nın Marmara Denizi'ne yakın kısmında, Salacak açıklarında yer alan küçük adacık üzerinde inşa edilmiş yapıdır. “Deniz içinde karadan bir ok atımı uzak, dört köşe, sanatkârane yapılmış bir yüksek kuledir. Yüksekliği tam seksen arşındır. Sathı mesahası iki yüz adımdır. İki taraftan yerde kapısı vardır.” Evliya Çelebi, seyahatnamesinde bu şekilde tarif eder Boğaz’ın incisi Kız Kulesi’ni… Antik Çağ’da “Arcla” yani küçük kale ve “Damialis” yani dana yavrusu adları ile anılan kule, bir dönem Leandros’un Kulesi anlamına gelen “Tour de Leandros” ismi ile ün yapar. Hakkında çeşitli rivayetler anlatılan, efsanelere konu olan kulenin bilinen tarihi, milattan önce 411 yıllarına kadar uzanır. Kız Kulesi hakkında en bilinen hikâye, Kleopatra’nın sonuna benzer bir sonun anlatıldığı yılan hikâyesidir. Kehanete göre; Krala çok sevdiği kızının onsekiz yaşına geldiğinde bir yılan tarafından sokularak öleceği söylenir. Kral bu kehanet üzerine, denizin ortasında bir kule yaptırır ve prensesi buraya yerleştirir. Ancak kuleye gönderilen üzüm sepetinden çıkan bir yılan, prensesinin ölümüne neden olur. Kral, kızına demirden bir tabut yaptırarak Ayasofya’nın giriş kapısının üstüne yerleştirir. Yılanın, ölümünden sonra da prensesi rahat bırakmadığına dair söylentiler günümüze kadar ulaşmıştır. Zira bu tabutun üstünde iki delik olduğu hala anlatılır. İstanbul Boğazı’nın girişindeki kayalık üzerine kurulmuş olan bu küçük kule, tarihsel süreçte gümrük istasyonu, gözetleme kulesi, deniz feneri olarak kullanılır. Kulenin bugünkü temelleri ve alt katın önemli kısımları Fatih Sultan Mehmet zamanında yapılmıştır. Boğaz’da salınan sandalları, vapurları ve gemileri günün her saatinde selamlayan Kız Kulesi, 1998 yılında başlayan restorasyon çalışmalarının ardından 2000 yılında turizme açıldı. Ulaşımın Salacak ve Ortaköy’den sandallarla yapıldığı Kız Kulesi, bugün İstanbul’un en önemli sembollerinden biri olarak ziyaretçilerini ağırlamaya devam ediyor.",
+                "Galata Kulesi, İstanbul'un tarihi semtlerinden biri olan Galata'nın gözde simgelerinden biridir. Bu etkileyici kule, 14. yüzyılda inşa edilmiş olup, İstanbul'un farklı dönemlerinde farklı amaçlar için kullanılmıştır. İstanbul Boğazı ve Haliç'in muhteşem manzaralarına hakim bir noktada yer almasıyla dikkat çeken Galata Kulesi, ziyaretçilerine unutulmaz bir panoramik deneyim sunar. Kuleye çıkarak İstanbul'un büyüleyici siluetini seyredebilir ve tarihi yarımadanın eşsiz güzelliklerini keşfedebilirsiniz. Galata Kulesi, aynı zamanda İstanbul'un tarihi ve kültürel önemini yansıtan bir nokta olarak da bilinir. Kule, Osmanlı İmparatorluğu döneminde deniz feneri ve gözetleme kulesi olarak kullanılmıştır. Günümüzde ise kule, İstanbul'un simgesel bir simgesi olmuştur ve ziyaretçilere hem tarihî bir mekanı hem de nefes kesen bir manzara sunmaktadır. Galata Kulesi, İstanbul'u ziyaret edenler için görülmesi gereken önemli bir noktadır ve şehrin büyüleyici atmosferini deneyimlemek için ideal bir duraktır.",
                 textAlign: TextAlign.left,
                 overflow: TextOverflow.clip,
                 style: TextStyle(
