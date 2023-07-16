@@ -88,5 +88,28 @@ Uygulamamız, belirli bir bölgeye seyahat etmeyi planlayan kullanıcılar için
 ---
 
 # Sprint 3
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Yapılan görevler "Done" kısmına yazılmıştır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 250 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 2. sprint'te geliştirme yapılamadığı için üçüncü sprint'e 250 puan ile devam edilmesi gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantısı örneği PDF dosyası olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint-3 Daily Scrum](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/F-115%20Sprint-3%20Daily%20Scrum%20Chats.pdf)
+
+- Sprint board update: Sprint board screenshotları: 
+![Backlog 1](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/Sprint-3%20Miro%20Board.png)
+
+- **Ürün Durumu**: Uygulama geliştirmeye son sprintte başlandığı için kapsam küçültülerek uygulama tamamlanmıştır.
+• Ürün Screenshotları:
+  ![Screenshot 1](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/girisekrani.png)
+  ![Screenshot 2](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/splash.png)
+  ![Screenshot 3](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/yerler1.png)
+  ![Screenshot 4](https://github.com/senadulger/OUA-BootcampTeam-F115/blob/main/ProjectManagement/yerler2.png)
+
+- **Sprint Review**: Bu sprintte uygulamaya başlandı ve tamamlandı.
+  <br> Sprint Review Katılımcıları: Ahmet Furkan Ayan, Berfin Toprak, Özgür Ağar, Sena Nur Dülger 
+
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 ---
